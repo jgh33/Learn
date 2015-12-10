@@ -13,6 +13,8 @@
 @end
 
 @implementation ViewController
+- (IBAction)musicBtn:(id)sender {
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];

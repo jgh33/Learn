@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:04MediaPlayer/04MediaPlayer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:03CALayer/03CALayer.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:02GameDemo/02GameDemo.xcodeproj">
    </FileRef>
    <FileRef
