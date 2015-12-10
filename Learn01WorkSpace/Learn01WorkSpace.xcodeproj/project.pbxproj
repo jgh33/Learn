@@ -26,6 +26,7 @@
 		D52D67221C19035A00972158 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D52D67251C19035A00972158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D52D67271C19035A00972158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D52D67861C19109100972158 /* 快捷键.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = "快捷键.rtf"; path = "../../../快捷键.rtf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		D52D670A1C19035A00972158 = {
 			isa = PBXGroup;
 			children = (
+				D52D67861C19109100972158 /* 快捷键.rtf */,
 				D52D67151C19035A00972158 /* Learn01WorkSpace */,
 				D52D67141C19035A00972158 /* Products */,
 			);
@@ -299,6 +301,7 @@
 				D52D672C1C19035A00972158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
