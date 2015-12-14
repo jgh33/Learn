@@ -7,29 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D52D67D61C196B3B00972158 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52D67D51C196B3B00972158 /* AppDelegate.swift */; };
-		D52D67D81C196B3B00972158 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52D67D71C196B3B00972158 /* ViewController.swift */; };
-		D52D67DB1C196B3B00972158 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52D67D91C196B3B00972158 /* Main.storyboard */; };
-		D52D67DD1C196B3B00972158 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D52D67DC1C196B3B00972158 /* Assets.xcassets */; };
-		D52D67E01C196B3B00972158 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52D67DE1C196B3B00972158 /* LaunchScreen.storyboard */; };
-		D52D67E81C19717300972158 /* 蜀绣.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D52D67E71C19717300972158 /* 蜀绣.mp3 */; };
-		D5BEB3C91C1AB3B3009EE45D /* Written In The Stars.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D5BEB3C81C1AB3B3009EE45D /* Written In The Stars.mp4 */; };
+		D5BEB3D71C1AD444009EE45D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5BEB3D61C1AD444009EE45D /* AppDelegate.swift */; };
+		D5BEB3D91C1AD444009EE45D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5BEB3D81C1AD444009EE45D /* ViewController.swift */; };
+		D5BEB3DC1C1AD444009EE45D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5BEB3DA1C1AD444009EE45D /* Main.storyboard */; };
+		D5BEB3DE1C1AD444009EE45D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5BEB3DD1C1AD444009EE45D /* Assets.xcassets */; };
+		D5BEB3E11C1AD444009EE45D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5BEB3DF1C1AD444009EE45D /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D52D67D21C196B3B00972158 /* 04MediaPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 04MediaPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D52D67D51C196B3B00972158 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D52D67D71C196B3B00972158 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D52D67DA1C196B3B00972158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D52D67DC1C196B3B00972158 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D52D67DF1C196B3B00972158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D52D67E11C196B3B00972158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D52D67E71C19717300972158 /* 蜀绣.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "蜀绣.mp3"; sourceTree = "<group>"; };
-		D5BEB3C81C1AB3B3009EE45D /* Written In The Stars.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Written In The Stars.mp4"; sourceTree = "<group>"; };
+		D5BEB3D31C1AD444009EE45D /* 05AVPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 05AVPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5BEB3D61C1AD444009EE45D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D5BEB3D81C1AD444009EE45D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D5BEB3DB1C1AD444009EE45D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D5BEB3DD1C1AD444009EE45D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D5BEB3E01C1AD444009EE45D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D5BEB3E21C1AD444009EE45D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D52D67CF1C196B3B00972158 /* Frameworks */ = {
+		D5BEB3D01C1AD444009EE45D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,74 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D52D67C91C196B3B00972158 = {
+		D5BEB3CA1C1AD444009EE45D = {
 			isa = PBXGroup;
 			children = (
-				D52D67D41C196B3B00972158 /* 04MediaPlayer */,
-				D52D67D31C196B3B00972158 /* Products */,
+				D5BEB3D51C1AD444009EE45D /* 05AVPlayer */,
+				D5BEB3D41C1AD444009EE45D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D52D67D31C196B3B00972158 /* Products */ = {
+		D5BEB3D41C1AD444009EE45D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D52D67D21C196B3B00972158 /* 04MediaPlayer.app */,
+				D5BEB3D31C1AD444009EE45D /* 05AVPlayer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D52D67D41C196B3B00972158 /* 04MediaPlayer */ = {
+		D5BEB3D51C1AD444009EE45D /* 05AVPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				D52D67D51C196B3B00972158 /* AppDelegate.swift */,
-				D52D67D71C196B3B00972158 /* ViewController.swift */,
-				D52D67D91C196B3B00972158 /* Main.storyboard */,
-				D52D67DC1C196B3B00972158 /* Assets.xcassets */,
-				D52D67E71C19717300972158 /* 蜀绣.mp3 */,
-				D5BEB3C81C1AB3B3009EE45D /* Written In The Stars.mp4 */,
-				D52D67DE1C196B3B00972158 /* LaunchScreen.storyboard */,
-				D52D67E11C196B3B00972158 /* Info.plist */,
+				D5BEB3D61C1AD444009EE45D /* AppDelegate.swift */,
+				D5BEB3D81C1AD444009EE45D /* ViewController.swift */,
+				D5BEB3DA1C1AD444009EE45D /* Main.storyboard */,
+				D5BEB3DD1C1AD444009EE45D /* Assets.xcassets */,
+				D5BEB3DF1C1AD444009EE45D /* LaunchScreen.storyboard */,
+				D5BEB3E21C1AD444009EE45D /* Info.plist */,
 			);
-			path = 04MediaPlayer;
+			path = 05AVPlayer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D52D67D11C196B3B00972158 /* 04MediaPlayer */ = {
+		D5BEB3D21C1AD444009EE45D /* 05AVPlayer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D52D67E41C196B3B00972158 /* Build configuration list for PBXNativeTarget "04MediaPlayer" */;
+			buildConfigurationList = D5BEB3E51C1AD444009EE45D /* Build configuration list for PBXNativeTarget "05AVPlayer" */;
 			buildPhases = (
-				D52D67CE1C196B3B00972158 /* Sources */,
-				D52D67CF1C196B3B00972158 /* Frameworks */,
-				D52D67D01C196B3B00972158 /* Resources */,
+				D5BEB3CF1C1AD444009EE45D /* Sources */,
+				D5BEB3D01C1AD444009EE45D /* Frameworks */,
+				D5BEB3D11C1AD444009EE45D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = 04MediaPlayer;
-			productName = 04MediaPlayer;
-			productReference = D52D67D21C196B3B00972158 /* 04MediaPlayer.app */;
+			name = 05AVPlayer;
+			productName = 05AVPlayer;
+			productReference = D5BEB3D31C1AD444009EE45D /* 05AVPlayer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D52D67CA1C196B3B00972158 /* Project object */ = {
+		D5BEB3CB1C1AD444009EE45D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = jgh;
 				TargetAttributes = {
-					D52D67D11C196B3B00972158 = {
+					D5BEB3D21C1AD444009EE45D = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = 2L8683256Z;
 					};
 				};
 			};
-			buildConfigurationList = D52D67CD1C196B3B00972158 /* Build configuration list for PBXProject "04MediaPlayer" */;
+			buildConfigurationList = D5BEB3CE1C1AD444009EE45D /* Build configuration list for PBXProject "05AVPlayer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,56 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = D52D67C91C196B3B00972158;
-			productRefGroup = D52D67D31C196B3B00972158 /* Products */;
+			mainGroup = D5BEB3CA1C1AD444009EE45D;
+			productRefGroup = D5BEB3D41C1AD444009EE45D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D52D67D11C196B3B00972158 /* 04MediaPlayer */,
+				D5BEB3D21C1AD444009EE45D /* 05AVPlayer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D52D67D01C196B3B00972158 /* Resources */ = {
+		D5BEB3D11C1AD444009EE45D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D52D67E01C196B3B00972158 /* LaunchScreen.storyboard in Resources */,
-				D52D67DD1C196B3B00972158 /* Assets.xcassets in Resources */,
-				D52D67DB1C196B3B00972158 /* Main.storyboard in Resources */,
-				D5BEB3C91C1AB3B3009EE45D /* Written In The Stars.mp4 in Resources */,
-				D52D67E81C19717300972158 /* 蜀绣.mp3 in Resources */,
+				D5BEB3E11C1AD444009EE45D /* LaunchScreen.storyboard in Resources */,
+				D5BEB3DE1C1AD444009EE45D /* Assets.xcassets in Resources */,
+				D5BEB3DC1C1AD444009EE45D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D52D67CE1C196B3B00972158 /* Sources */ = {
+		D5BEB3CF1C1AD444009EE45D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D52D67D81C196B3B00972158 /* ViewController.swift in Sources */,
-				D52D67D61C196B3B00972158 /* AppDelegate.swift in Sources */,
+				D5BEB3D91C1AD444009EE45D /* ViewController.swift in Sources */,
+				D5BEB3D71C1AD444009EE45D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D52D67D91C196B3B00972158 /* Main.storyboard */ = {
+		D5BEB3DA1C1AD444009EE45D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D52D67DA1C196B3B00972158 /* Base */,
+				D5BEB3DB1C1AD444009EE45D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D52D67DE1C196B3B00972158 /* LaunchScreen.storyboard */ = {
+		D5BEB3DF1C1AD444009EE45D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D52D67DF1C196B3B00972158 /* Base */,
+				D5BEB3E01C1AD444009EE45D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -171,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D52D67E21C196B3B00972158 /* Debug */ = {
+		D5BEB3E31C1AD444009EE45D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		D52D67E31C196B3B00972158 /* Release */ = {
+		D5BEB3E41C1AD444009EE45D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -254,24 +246,24 @@
 			};
 			name = Release;
 		};
-		D52D67E51C196B3B00972158 /* Debug */ = {
+		D5BEB3E61C1AD444009EE45D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = 04MediaPlayer/Info.plist;
+				INFOPLIST_FILE = 05AVPlayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-4MediaPlayer";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-5AVPlayer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		D52D67E61C196B3B00972158 /* Release */ = {
+		D5BEB3E71C1AD444009EE45D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = 04MediaPlayer/Info.plist;
+				INFOPLIST_FILE = 05AVPlayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-4MediaPlayer";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-5AVPlayer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -279,25 +271,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D52D67CD1C196B3B00972158 /* Build configuration list for PBXProject "04MediaPlayer" */ = {
+		D5BEB3CE1C1AD444009EE45D /* Build configuration list for PBXProject "05AVPlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D52D67E21C196B3B00972158 /* Debug */,
-				D52D67E31C196B3B00972158 /* Release */,
+				D5BEB3E31C1AD444009EE45D /* Debug */,
+				D5BEB3E41C1AD444009EE45D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D52D67E41C196B3B00972158 /* Build configuration list for PBXNativeTarget "04MediaPlayer" */ = {
+		D5BEB3E51C1AD444009EE45D /* Build configuration list for PBXNativeTarget "05AVPlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D52D67E51C196B3B00972158 /* Debug */,
-				D52D67E61C196B3B00972158 /* Release */,
+				D5BEB3E61C1AD444009EE45D /* Debug */,
+				D5BEB3E71C1AD444009EE45D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D52D67CA1C196B3B00972158 /* Project object */;
+	rootObject = D5BEB3CB1C1AD444009EE45D /* Project object */;
 }

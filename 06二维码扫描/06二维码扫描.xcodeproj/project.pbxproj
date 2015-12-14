@@ -7,29 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D52D67D61C196B3B00972158 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52D67D51C196B3B00972158 /* AppDelegate.swift */; };
-		D52D67D81C196B3B00972158 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52D67D71C196B3B00972158 /* ViewController.swift */; };
-		D52D67DB1C196B3B00972158 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52D67D91C196B3B00972158 /* Main.storyboard */; };
-		D52D67DD1C196B3B00972158 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D52D67DC1C196B3B00972158 /* Assets.xcassets */; };
-		D52D67E01C196B3B00972158 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D52D67DE1C196B3B00972158 /* LaunchScreen.storyboard */; };
-		D52D67E81C19717300972158 /* 蜀绣.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D52D67E71C19717300972158 /* 蜀绣.mp3 */; };
-		D5BEB3C91C1AB3B3009EE45D /* Written In The Stars.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D5BEB3C81C1AB3B3009EE45D /* Written In The Stars.mp4 */; };
+		D503019D1C1B156E00283FDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D503019C1C1B156E00283FDC /* AppDelegate.swift */; };
+		D503019F1C1B156E00283FDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D503019E1C1B156E00283FDC /* ViewController.swift */; };
+		D50301A21C1B156E00283FDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D50301A01C1B156E00283FDC /* Main.storyboard */; };
+		D50301A41C1B156E00283FDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D50301A31C1B156E00283FDC /* Assets.xcassets */; };
+		D50301A71C1B156E00283FDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D50301A51C1B156E00283FDC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D52D67D21C196B3B00972158 /* 04MediaPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 04MediaPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D52D67D51C196B3B00972158 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D52D67D71C196B3B00972158 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D52D67DA1C196B3B00972158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D52D67DC1C196B3B00972158 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D52D67DF1C196B3B00972158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D52D67E11C196B3B00972158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D52D67E71C19717300972158 /* 蜀绣.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "蜀绣.mp3"; sourceTree = "<group>"; };
-		D5BEB3C81C1AB3B3009EE45D /* Written In The Stars.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Written In The Stars.mp4"; sourceTree = "<group>"; };
+		D50301991C1B156E00283FDC /* 06二维码扫描.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "06二维码扫描.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D503019C1C1B156E00283FDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D503019E1C1B156E00283FDC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D50301A11C1B156E00283FDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D50301A31C1B156E00283FDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D50301A61C1B156E00283FDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D50301A81C1B156E00283FDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D52D67CF1C196B3B00972158 /* Frameworks */ = {
+		D50301961C1B156E00283FDC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,74 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D52D67C91C196B3B00972158 = {
+		D50301901C1B156E00283FDC = {
 			isa = PBXGroup;
 			children = (
-				D52D67D41C196B3B00972158 /* 04MediaPlayer */,
-				D52D67D31C196B3B00972158 /* Products */,
+				D503019B1C1B156E00283FDC /* 06二维码扫描 */,
+				D503019A1C1B156E00283FDC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D52D67D31C196B3B00972158 /* Products */ = {
+		D503019A1C1B156E00283FDC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D52D67D21C196B3B00972158 /* 04MediaPlayer.app */,
+				D50301991C1B156E00283FDC /* 06二维码扫描.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D52D67D41C196B3B00972158 /* 04MediaPlayer */ = {
+		D503019B1C1B156E00283FDC /* 06二维码扫描 */ = {
 			isa = PBXGroup;
 			children = (
-				D52D67D51C196B3B00972158 /* AppDelegate.swift */,
-				D52D67D71C196B3B00972158 /* ViewController.swift */,
-				D52D67D91C196B3B00972158 /* Main.storyboard */,
-				D52D67DC1C196B3B00972158 /* Assets.xcassets */,
-				D52D67E71C19717300972158 /* 蜀绣.mp3 */,
-				D5BEB3C81C1AB3B3009EE45D /* Written In The Stars.mp4 */,
-				D52D67DE1C196B3B00972158 /* LaunchScreen.storyboard */,
-				D52D67E11C196B3B00972158 /* Info.plist */,
+				D503019C1C1B156E00283FDC /* AppDelegate.swift */,
+				D503019E1C1B156E00283FDC /* ViewController.swift */,
+				D50301A01C1B156E00283FDC /* Main.storyboard */,
+				D50301A31C1B156E00283FDC /* Assets.xcassets */,
+				D50301A51C1B156E00283FDC /* LaunchScreen.storyboard */,
+				D50301A81C1B156E00283FDC /* Info.plist */,
 			);
-			path = 04MediaPlayer;
+			path = "06二维码扫描";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D52D67D11C196B3B00972158 /* 04MediaPlayer */ = {
+		D50301981C1B156E00283FDC /* 06二维码扫描 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D52D67E41C196B3B00972158 /* Build configuration list for PBXNativeTarget "04MediaPlayer" */;
+			buildConfigurationList = D50301AB1C1B156E00283FDC /* Build configuration list for PBXNativeTarget "06二维码扫描" */;
 			buildPhases = (
-				D52D67CE1C196B3B00972158 /* Sources */,
-				D52D67CF1C196B3B00972158 /* Frameworks */,
-				D52D67D01C196B3B00972158 /* Resources */,
+				D50301951C1B156E00283FDC /* Sources */,
+				D50301961C1B156E00283FDC /* Frameworks */,
+				D50301971C1B156E00283FDC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = 04MediaPlayer;
-			productName = 04MediaPlayer;
-			productReference = D52D67D21C196B3B00972158 /* 04MediaPlayer.app */;
+			name = "06二维码扫描";
+			productName = "06二维码扫描";
+			productReference = D50301991C1B156E00283FDC /* 06二维码扫描.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D52D67CA1C196B3B00972158 /* Project object */ = {
+		D50301911C1B156E00283FDC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = jgh;
 				TargetAttributes = {
-					D52D67D11C196B3B00972158 = {
+					D50301981C1B156E00283FDC = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = 2L8683256Z;
 					};
 				};
 			};
-			buildConfigurationList = D52D67CD1C196B3B00972158 /* Build configuration list for PBXProject "04MediaPlayer" */;
+			buildConfigurationList = D50301941C1B156E00283FDC /* Build configuration list for PBXProject "06二维码扫描" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,56 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = D52D67C91C196B3B00972158;
-			productRefGroup = D52D67D31C196B3B00972158 /* Products */;
+			mainGroup = D50301901C1B156E00283FDC;
+			productRefGroup = D503019A1C1B156E00283FDC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D52D67D11C196B3B00972158 /* 04MediaPlayer */,
+				D50301981C1B156E00283FDC /* 06二维码扫描 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D52D67D01C196B3B00972158 /* Resources */ = {
+		D50301971C1B156E00283FDC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D52D67E01C196B3B00972158 /* LaunchScreen.storyboard in Resources */,
-				D52D67DD1C196B3B00972158 /* Assets.xcassets in Resources */,
-				D52D67DB1C196B3B00972158 /* Main.storyboard in Resources */,
-				D5BEB3C91C1AB3B3009EE45D /* Written In The Stars.mp4 in Resources */,
-				D52D67E81C19717300972158 /* 蜀绣.mp3 in Resources */,
+				D50301A71C1B156E00283FDC /* LaunchScreen.storyboard in Resources */,
+				D50301A41C1B156E00283FDC /* Assets.xcassets in Resources */,
+				D50301A21C1B156E00283FDC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D52D67CE1C196B3B00972158 /* Sources */ = {
+		D50301951C1B156E00283FDC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D52D67D81C196B3B00972158 /* ViewController.swift in Sources */,
-				D52D67D61C196B3B00972158 /* AppDelegate.swift in Sources */,
+				D503019F1C1B156E00283FDC /* ViewController.swift in Sources */,
+				D503019D1C1B156E00283FDC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D52D67D91C196B3B00972158 /* Main.storyboard */ = {
+		D50301A01C1B156E00283FDC /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D52D67DA1C196B3B00972158 /* Base */,
+				D50301A11C1B156E00283FDC /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D52D67DE1C196B3B00972158 /* LaunchScreen.storyboard */ = {
+		D50301A51C1B156E00283FDC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D52D67DF1C196B3B00972158 /* Base */,
+				D50301A61C1B156E00283FDC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -171,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D52D67E21C196B3B00972158 /* Debug */ = {
+		D50301A91C1B156E00283FDC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		D52D67E31C196B3B00972158 /* Release */ = {
+		D50301AA1C1B156E00283FDC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -254,24 +246,24 @@
 			};
 			name = Release;
 		};
-		D52D67E51C196B3B00972158 /* Debug */ = {
+		D50301AC1C1B156E00283FDC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = 04MediaPlayer/Info.plist;
+				INFOPLIST_FILE = "06二维码扫描/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-4MediaPlayer";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-6-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		D52D67E61C196B3B00972158 /* Release */ = {
+		D50301AD1C1B156E00283FDC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = 04MediaPlayer/Info.plist;
+				INFOPLIST_FILE = "06二维码扫描/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-4MediaPlayer";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.scau.jgh.-6-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -279,25 +271,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D52D67CD1C196B3B00972158 /* Build configuration list for PBXProject "04MediaPlayer" */ = {
+		D50301941C1B156E00283FDC /* Build configuration list for PBXProject "06二维码扫描" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D52D67E21C196B3B00972158 /* Debug */,
-				D52D67E31C196B3B00972158 /* Release */,
+				D50301A91C1B156E00283FDC /* Debug */,
+				D50301AA1C1B156E00283FDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D52D67E41C196B3B00972158 /* Build configuration list for PBXNativeTarget "04MediaPlayer" */ = {
+		D50301AB1C1B156E00283FDC /* Build configuration list for PBXNativeTarget "06二维码扫描" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D52D67E51C196B3B00972158 /* Debug */,
-				D52D67E61C196B3B00972158 /* Release */,
+				D50301AC1C1B156E00283FDC /* Debug */,
+				D50301AD1C1B156E00283FDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D52D67CA1C196B3B00972158 /* Project object */;
+	rootObject = D50301911C1B156E00283FDC /* Project object */;
 }

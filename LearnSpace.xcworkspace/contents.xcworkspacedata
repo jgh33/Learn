@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:06&#x4e8c;&#x7ef4;&#x7801;&#x626b;&#x63cf;/06&#x4e8c;&#x7ef4;&#x7801;&#x626b;&#x63cf;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:05AVPlayer/05AVPlayer.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:04MediaPlayer/04MediaPlayer.xcodeproj">
    </FileRef>
    <FileRef

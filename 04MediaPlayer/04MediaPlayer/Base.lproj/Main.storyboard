@@ -31,13 +31,25 @@
                                     <action selector="musicBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TL8-Et-88i"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vji-ag-Cc4">
+                                <rect key="frame" x="251" y="355" width="99" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="99" id="Np7-RP-s5U"/>
+                                </constraints>
+                                <state key="normal" title="选择乐库音乐"/>
+                                <connections>
+                                    <action selector="selectBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q4R-LH-6bj"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="fzT-3d-ODI"/>
-                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="top" secondItem="Vjq-aS-StZ" secondAttribute="bottom" constant="31" id="hUf-S5-LtT"/>
-                            <constraint firstItem="Vjq-aS-StZ" firstAttribute="centerX" secondItem="0Rr-9g-xp2" secondAttribute="centerX" id="jlZ-lw-t4G"/>
-                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="ofE-eR-vG7"/>
+                            <constraint firstItem="vji-ag-Cc4" firstAttribute="top" secondItem="0Rr-9g-xp2" secondAttribute="bottom" constant="40" id="4IY-8N-dpA"/>
+                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="FtR-ec-TFu"/>
+                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LEj-9z-6wq"/>
+                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="top" secondItem="Vjq-aS-StZ" secondAttribute="bottom" constant="31" id="LRo-oz-87m"/>
+                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="centerX" secondItem="Vjq-aS-StZ" secondAttribute="centerX" id="Tcg-uU-Bf9"/>
+                            <constraint firstItem="0Rr-9g-xp2" firstAttribute="centerX" secondItem="vji-ag-Cc4" secondAttribute="centerX" id="uiE-Fv-7kj"/>
                         </constraints>
                     </view>
                 </viewController>
