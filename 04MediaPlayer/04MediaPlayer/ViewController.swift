@@ -10,10 +10,10 @@ import UIKit
 import AVFoundation
 import AVKit
 import MediaPlayer
-@IBAction func AVPlayerBtn(sender: UIButton) {
-    @IBAction func one(sender: AnyObject) {
-    }
-}
+//@IBAction func AVPlayerBtn(sender: UIButton) {
+//    @IBAction func one(sender: AnyObject) {
+//    }
+//}
 
 class ViewController: UIViewController,MPMediaPickerControllerDelegate {
     var player:MPMusicPlayerController!
